@@ -2,5 +2,5 @@
 Projekt
 <br>
 01#Aufgabe
-    <a href="file:///C:/Users/49174/Documents/GitHub/IFD/01%23Aufgabe/Moodboard.pdf">Idee</a>
-    <a href="">Moodboard</a>
+    <a href="">Idee</a>
+    <a href="https://github.com/carolinbng/IFD/blob/main/01%23Aufgabe/Moodboard.pdf">Moodboard</a>
