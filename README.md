@@ -10,4 +10,4 @@ Abgaben
 <br>
 02 - 27.10.2021
 <br>
--  <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Fahrrad_Infografik_Skizzen.pdf">low-fid Prototypen</a>
+-   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Fahrrad_Infografik_Skizzen.pdf">low-fid Prototypen</a>
