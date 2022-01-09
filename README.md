@@ -25,8 +25,15 @@ Testing - 01.12.2021
 -   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Testing.pdf">Testing</a>
 <br>
 <br>
-Weiterentwicklung Prototypen - 16.12.2021
+Fertiger Prototypen - 16.12.2021
 <br>
 -   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/KurzDoku.pdf">Doku</a>
+<br>
+-   <a href="https://xd.adobe.com/view/387a953a-1e2a-4871-8fa6-df702f79c1e6-6d29/?fullscreen&hints=off">Prototypen</a>
+<br>
+<br>
+Konzeptentwurf Sprachassistenten - 09.01.2021
+<br>
+-   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Bike_IFD.drawio.pdf">Konzeptentwurf</a>
 <br>
 -   <a href="https://xd.adobe.com/view/387a953a-1e2a-4871-8fa6-df702f79c1e6-6d29/?fullscreen&hints=off">Prototypen</a>
