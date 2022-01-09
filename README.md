@@ -7,7 +7,6 @@ Abgaben
 <br>
 -  <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Idee.pdf">Idee</a>
 -   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Moodboard.pdf">Moodboard</a>
-<br>
 -  <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Infografiken_Zeit.pdf">Print Infografiken</a>
 <br>
 <br>
