@@ -37,4 +37,4 @@ Abgaben
 <br>
 -   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Bike_IFD.drawio.pdf">Konzeptentwurf</a>
 <br>
--   <a href="https://xd.adobe.com/view/387a953a-1e2a-4871-8fa6-df702f79c1e6-6d29/?fullscreen&hints=off">Prototypen</a>
+-   <a href="https://app.fabble.io/prototype/6bc53e">Low-Fid</a>
