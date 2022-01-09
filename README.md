@@ -6,7 +6,6 @@ Abgaben
 01 - 20.10.2021
 <br>
 -  <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Idee.pdf">Idee</a>
-<br>
 -   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Moodboard.pdf">Moodboard</a>
 <br>
 -  <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Infografiken_Zeit.pdf">Print Infografiken</a>
