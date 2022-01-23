@@ -38,3 +38,10 @@ Abgaben
 -   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Bike_IFD.drawio.pdf">Konzeptentwurf</a>
 <br>
 -   <a href="https://app.fabble.io/prototype/6bc53e">Low-Fid</a>
+<br>
+<br>
+06 - Low-Fid Sprachassistenten - 09.01.2021
+<br>
+-   <a href="https://xd.adobe.com/view/232c0731-db8d-40e1-ab7f-bcfb4933fd42-767f/">Adobe XD</a>
+<br>
+-   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Screencast_IFD.mp4">Screencast</a>
