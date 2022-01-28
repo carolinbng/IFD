@@ -5,43 +5,43 @@ Abgaben
 <br>
 01 - 20.10.2021
 <br>
--  <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Idee.pdf">Idee</a>
--   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Moodboard.pdf">Moodboard</a>
--  <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Infografiken_Zeit.pdf">Print Infografiken</a>
+-  <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/1.Idee.pdf">Idee</a>
+-   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/2.Moodboard.pdf">Moodboard</a>
+-  <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/3.Infografiken_Zeit.pdf">Print Infografiken</a>
 <br>
 02 - 27.10.2021
 <br>
--   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Fahrrad_Infografik_Skizzen.pdf">Low-Fidelity Prototypen</a>
+-   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/4.Fahrrad_Infografik_Skizzen.pdf">Low-Fidelity Prototypen</a>
 <br>
 <br>
 03 - Zwischenstand - 03.22.2021
 <br>
--   <a href="https://xd.adobe.com/view/04afeb1d-81c7-4852-834e-94b52eeb32b3-51fc/">Prototypen</a>
+-   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/5.Prototyp-Zwischenstand.pdf">Prototypen</a>
 <br>
 <br>
 04 - Testing - 01.12.2021
 <br>
--   <a href="https://xd.adobe.com/view/387a953a-1e2a-4871-8fa6-df702f79c1e6-6d29/?fullscreen&hints=off">High-Fidelity Prototypen</a>
+-   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/6.High-Fid-Prototyp.pdf">High-Fidelity Prototypen</a>
 <br>
--   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Testing.pdf">Testing</a>
+-   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/7.Testing.pdf">Testing</a>
 <br>
 <br>
 05 - Fertiger Prototypen - 16.12.2021
 <br>
--   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/KurzDoku.pdf">Doku</a>
+-   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/8.KurzDoku.pdf">Doku</a>
 <br>
--   <a href="https://xd.adobe.com/view/387a953a-1e2a-4871-8fa6-df702f79c1e6-6d29/?fullscreen&hints=off">Prototypen</a>
+-   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/9.High-Fid-Prototyp-2.pdf">Prototypen</a>
 <br>
 <br>
 06 - Konzeptentwurf Sprachassistenten - 09.01.2021
 <br>
--   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Bike_IFD.drawio.pdf">Konzeptentwurf</a>
+-   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/10.Konzeptentwurf.pdf">Konzeptentwurf</a>
 <br>
--   <a href="https://app.fabble.io/prototype/6bc53e">Low-Fid</a>
+-   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/11.Low-fid.pdf">Low-Fid</a>
 <br>
 <br>
 06 - Low-Fid Sprachassistenten - 23.01.2021
 <br>
--   <a href="https://xd.adobe.com/view/232c0731-db8d-40e1-ab7f-bcfb4933fd42-767f/">Adobe XD</a>
+-   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/12.High-fid.pdf">Adobe XD</a>
 <br>
 -   <a href="https://github.com/carolinbng/IFD/blob/main/Abgabe/Screencast_IFD.mp4">Screencast</a>
